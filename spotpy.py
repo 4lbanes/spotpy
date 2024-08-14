@@ -5,7 +5,7 @@ from ffpyplayer.player import MediaPlayer
 from googleapiclient.discovery import build
 
 # Chave da API do YouTube
-YOUTUBE_API_KEY = 'AIzaSyBqfY9MyH25T6SY5Dx_zXHGqGrCykYFv9w'
+YOUTUBE_API_KEY = 'YOUR API KEY'
 
 # Função para buscar vídeos no YouTube
 def search_video(query):
